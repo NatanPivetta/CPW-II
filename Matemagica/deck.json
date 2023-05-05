@@ -1,0 +1,217 @@
+{
+    "success": true,
+    "deck_id": "f8ew37rrim3p",
+    "cards": [
+        {
+            "code": "KD",
+            "image": "https://deckofcardsapi.com/static/img/KD.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/KD.svg",
+                "png": "https://deckofcardsapi.com/static/img/KD.png"
+            },
+            "value": "KING",
+            "suit": "DIAMONDS"
+        },
+        {
+            "code": "KC",
+            "image": "https://deckofcardsapi.com/static/img/KC.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/KC.svg",
+                "png": "https://deckofcardsapi.com/static/img/KC.png"
+            },
+            "value": "KING",
+            "suit": "CLUBS"
+        },
+        {
+            "code": "8S",
+            "image": "https://deckofcardsapi.com/static/img/8S.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/8S.svg",
+                "png": "https://deckofcardsapi.com/static/img/8S.png"
+            },
+            "value": "8",
+            "suit": "SPADES"
+        },
+        {
+            "code": "QH",
+            "image": "https://deckofcardsapi.com/static/img/QH.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/QH.svg",
+                "png": "https://deckofcardsapi.com/static/img/QH.png"
+            },
+            "value": "QUEEN",
+            "suit": "HEARTS"
+        },
+        {
+            "code": "2D",
+            "image": "https://deckofcardsapi.com/static/img/2D.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/2D.svg",
+                "png": "https://deckofcardsapi.com/static/img/2D.png"
+            },
+            "value": "2",
+            "suit": "DIAMONDS"
+        },
+        {
+            "code": "QS",
+            "image": "https://deckofcardsapi.com/static/img/QS.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/QS.svg",
+                "png": "https://deckofcardsapi.com/static/img/QS.png"
+            },
+            "value": "QUEEN",
+            "suit": "SPADES"
+        },
+        {
+            "code": "4D",
+            "image": "https://deckofcardsapi.com/static/img/4D.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/4D.svg",
+                "png": "https://deckofcardsapi.com/static/img/4D.png"
+            },
+            "value": "4",
+            "suit": "DIAMONDS"
+        },
+        {
+            "code": "2C",
+            "image": "https://deckofcardsapi.com/static/img/2C.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/2C.svg",
+                "png": "https://deckofcardsapi.com/static/img/2C.png"
+            },
+            "value": "2",
+            "suit": "CLUBS"
+        },
+        {
+            "code": "9C",
+            "image": "https://deckofcardsapi.com/static/img/9C.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/9C.svg",
+                "png": "https://deckofcardsapi.com/static/img/9C.png"
+            },
+            "value": "9",
+            "suit": "CLUBS"
+        },
+        {
+            "code": "8D",
+            "image": "https://deckofcardsapi.com/static/img/8D.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/8D.svg",
+                "png": "https://deckofcardsapi.com/static/img/8D.png"
+            },
+            "value": "8",
+            "suit": "DIAMONDS"
+        },
+        {
+            "code": "0H",
+            "image": "https://deckofcardsapi.com/static/img/0H.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/0H.svg",
+                "png": "https://deckofcardsapi.com/static/img/0H.png"
+            },
+            "value": "10",
+            "suit": "HEARTS"
+        },
+        {
+            "code": "7S",
+            "image": "https://deckofcardsapi.com/static/img/7S.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/7S.svg",
+                "png": "https://deckofcardsapi.com/static/img/7S.png"
+            },
+            "value": "7",
+            "suit": "SPADES"
+        },
+        {
+            "code": "3D",
+            "image": "https://deckofcardsapi.com/static/img/3D.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/3D.svg",
+                "png": "https://deckofcardsapi.com/static/img/3D.png"
+            },
+            "value": "3",
+            "suit": "DIAMONDS"
+        },
+        {
+            "code": "3H",
+            "image": "https://deckofcardsapi.com/static/img/3H.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/3H.svg",
+                "png": "https://deckofcardsapi.com/static/img/3H.png"
+            },
+            "value": "3",
+            "suit": "HEARTS"
+        },
+        {
+            "code": "6D",
+            "image": "https://deckofcardsapi.com/static/img/6D.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/6D.svg",
+                "png": "https://deckofcardsapi.com/static/img/6D.png"
+            },
+            "value": "6",
+            "suit": "DIAMONDS"
+        },
+        {
+            "code": "8H",
+            "image": "https://deckofcardsapi.com/static/img/8H.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/8H.svg",
+                "png": "https://deckofcardsapi.com/static/img/8H.png"
+            },
+            "value": "8",
+            "suit": "HEARTS"
+        },
+        {
+            "code": "6C",
+            "image": "https://deckofcardsapi.com/static/img/6C.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/6C.svg",
+                "png": "https://deckofcardsapi.com/static/img/6C.png"
+            },
+            "value": "6",
+            "suit": "CLUBS"
+        },
+        {
+            "code": "JD",
+            "image": "https://deckofcardsapi.com/static/img/JD.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/JD.svg",
+                "png": "https://deckofcardsapi.com/static/img/JD.png"
+            },
+            "value": "JACK",
+            "suit": "DIAMONDS"
+        },
+        {
+            "code": "6H",
+            "image": "https://deckofcardsapi.com/static/img/6H.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/6H.svg",
+                "png": "https://deckofcardsapi.com/static/img/6H.png"
+            },
+            "value": "6",
+            "suit": "HEARTS"
+        },
+        {
+            "code": "0C",
+            "image": "https://deckofcardsapi.com/static/img/0C.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/0C.svg",
+                "png": "https://deckofcardsapi.com/static/img/0C.png"
+            },
+            "value": "10",
+            "suit": "CLUBS"
+        },
+        {
+            "code": "2H",
+            "image": "https://deckofcardsapi.com/static/img/2H.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/2H.svg",
+                "png": "https://deckofcardsapi.com/static/img/2H.png"
+            },
+            "value": "2",
+            "suit": "HEARTS"
+        }
+    ],
+    "remaining": 31
+}
