@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img{
+    scale: .40;
+}
+
+#gameboard{
+    justify-content: space-around;
+    scale: .75;
+    display: grid;
+    grid: 90px/ auto auto auto;
+    flex-flow: row wrap;
+    row-gap: 10px;
+}
