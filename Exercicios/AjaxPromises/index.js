@@ -37,7 +37,7 @@ function addImage(img){
     var tagImg = document.createElement("img");
     tagImg.src = img.imagemUrl;
     tagImg.alt = img.name;
-    tagImg.width = "500";
+    tagImg.width = "400";
     tagImg.height = window.innerHeight;
     divImages.appendChild(tagImg);
 }
