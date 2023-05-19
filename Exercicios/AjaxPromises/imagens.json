@@ -1,0 +1,14 @@
+{
+    "animals": [
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_960_720.jpg", "name": "Gato"},
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/jovem-auk-em-um-zoologico-no-verao_268835-796.jpg?w=740&t=st=1683295968~exp=1683296568~hmac=6d52e03c519a354f15ea53745e3f0e48120fcd006ce2f124cfa80516a3f06df3", "name": "Pinguim"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2016/02/10/16/37/cat-1192026_960_720.jpg", "name": "Gato 2"},
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/guaxinim_658691-180.jpg?w=740&t=st=1683295856~exp=1683296456~hmac=2246330ae4943fd8caf2195b2d07e6b3ecc5f4036ba1270f35be452688e5f229", "name": "Guaxinim"},
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/leao-olhando-para-o-outro-lado_181624-10192.jpg?w=996&t=st=1683295939~exp=1683296539~hmac=79d218890da889bd1e51ce57ace783027a48bb8a3910616a8cc36fa069f3c69a", "name": "Leão"},
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/tanager-escarlate-em-um-galho_181624-6092.jpg?w=1380&t=st=1683296000~exp=1683296600~hmac=d1e8b6e25ef971b8adfb3ca1a1012a5db21ee755473909a3a59da010637c8e94", "name": "Pássaro"},
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/tigre-olhando-com-a-boca-aberta_1150-18083.jpg?w=740&t=st=1683296025~exp=1683296625~hmac=2c0525c5411414b8c7cc030c502521c7942f02d9ad3ebc689abdb99aff6cd5f9", "name": "Tigre"},
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/girafa-na-selva_167946-142.jpg?w=996&t=st=1683296063~exp=1683296663~hmac=398a7938f0878db68f599f98fa8635d75765fc88d15f8eca5b21a433fb11206f", "name": "Girafa"},
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/elefante-andando-na-estrada_181624-23124.jpg?w=996&t=st=1683296091~exp=1683296691~hmac=b1f3c312c434e70a8dae4aecc9423fe92fce65f1b97ad8d9f3ab0aa46b1f2a67", "name": "Elefante"},
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/macaco-na-natureza_8327-226.jpg?w=996&t=st=1683296119~exp=1683296719~hmac=bf170b4464e86ba3ae5caf8fbe802c7899f5f3055baba0db28abbcba936e1366", "name": "Macaco"}
+    ]
+}
