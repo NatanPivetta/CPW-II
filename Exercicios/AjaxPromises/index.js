@@ -24,7 +24,7 @@ async function main(){
 
     try{
         let response = await newRequest('GET', url);
-        let img = response.animals[Math.floor(Math.random() * response.animals.length)]
+        var img = response.animals[Math.floor(Math.random() * response.animals.length)]
         addImage(img);
     }catch (error){
         console.log(error);
@@ -37,8 +37,11 @@ function addImage(img){
     var tagImg = document.createElement("img");
     tagImg.src = img.imagemUrl;
     tagImg.alt = img.name;
+    tagImg.width = "500";
+    tagImg.height = window.innerHeight;
     divImages.appendChild(tagImg);
 }
+
 
 window.onscroll = function(ev) {
     if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
